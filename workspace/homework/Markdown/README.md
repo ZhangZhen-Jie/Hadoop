@@ -4,6 +4,8 @@
 # 可以用 # 來做主標題
 ## 第二階標題
 ### 第三階標題
+---
+- git hub 只到第三階
 ####第四階標題
 #####第五標題
 ######第六階標題
@@ -24,7 +26,7 @@
 - 06:00準時抵達會合地點
 - 18:00準時離開
 
-#階層結構
+# 階層結構
 - **三明治**
 - 漢堡
     - 火腿蛋堡
@@ -53,11 +55,11 @@ Markdown也提供`html`語法支援\
 ex: <font color="red">我好紅~</font>\
 但是Github沒有支援`html`語法，故看不到顏色效果
 
-#引文
+# 引文
 >這邊是亂數假文，沒有彩蛋，請勿浪費時間!\
 換一行試試看
 
-#程式碼
+# 程式碼
 ```python
 from datetime import datetime
 datetime.now()
@@ -74,7 +76,7 @@ var myChart = new Chart(ctx, {
 });
 ```
 
-#表格
+# 表格
 id|Name|Score
 ---|:---:|---:
 1|Tony|100
@@ -129,13 +131,13 @@ like [this][2].
 [4]:http://www.aiqiyi.com "aiqiyi"
 [网站]:http://www.qq.com
 
-#插入圖片
+# 插入圖片
 ![圖片掛了](img/puppy.jpg '當下我也是一臉茫然')
 
-#撰寫方程式
-* <img src="https://latex.codecogs.com/png.latex?o_t=\text { Onset event at time bin } t " />
-* <img src="https://latex.codecogs.com/png.latex?\dpi{300}x\cdot y^2" />
-* <img src="https://latex.codecogs.com/png.latex?x\cdot y^2" />
-* <img src="https://latex.codecogs.com/png.latex?2H_2 + O_2 \xrightarrow{n,m}2H_2O" />
+# 撰寫方程式
+* <img src="https://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t" />
+* <img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;x\cdot&space;y^2" />
+* <img src="https://latex.codecogs.com/gif.latex?x\cdot&space;y^2" />
+* <img src="https://latex.codecogs.com/gif.latex?2H_2&space;&plus;&space;O_2&space;\xrightarrow{n,m}2H_2O" />
 * <img src="https://latex.codecogs.com/png.latex?\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}" />
 
