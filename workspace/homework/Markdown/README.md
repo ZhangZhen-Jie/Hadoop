@@ -129,11 +129,11 @@ like [this][2].
 [4]:http://www.aiqiyi.com "aiqiyi"
 [网站]:http://www.qq.com
 
-#插入圖片
+# 插入圖片
 ![圖片掛了](img/puppy.jpg '當下我也是一臉茫然')
 
-#撰寫方程式
-* <img src="https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t" />
+# 撰寫方程式
+* <img src="https://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t" />
 * <img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;x\cdot&space;y^2" />
 * <img src="https://latex.codecogs.com/gif.latex?x\cdot&space;y^2" />
 * <img src="https://latex.codecogs.com/gif.latex?2H_2&space;&plus;&space;O_2&space;\xrightarrow{n,m}2H_2O" />
