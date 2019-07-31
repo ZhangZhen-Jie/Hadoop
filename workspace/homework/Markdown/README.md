@@ -133,9 +133,9 @@ like [this][2].
 ![圖片掛了](img/puppy.jpg '當下我也是一臉茫然')
 
 #撰寫方程式
-* <img src="https://latex.codecogs.com/png.latex?o_t=\text { Onset event at time bin } t " />
-* <img src="https://latex.codecogs.com/png.latex?\dpi{300}x\cdot y^2" />
-* <img src="https://latex.codecogs.com/png.latex?x\cdot y^2" />
-* <img src="https://latex.codecogs.com/png.latex?2H_2 + O_2 \xrightarrow{n,m}2H_2O" />
+* <img src="https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t" />
+* <img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;x\cdot&space;y^2" />
+* <img src="https://latex.codecogs.com/gif.latex?x\cdot&space;y^2" />
+* <img src="https://latex.codecogs.com/gif.latex?2H_2&space;&plus;&space;O_2&space;\xrightarrow{n,m}2H_2O" />
 * <img src="https://latex.codecogs.com/png.latex?\begin{bmatrix}1&2&3\\4&5&6\\7&8&9\end{bmatrix}" />
 
