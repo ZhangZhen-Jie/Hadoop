@@ -1,0 +1,4 @@
+# 忽略 ignoretest.txt 檔案
+ignoretest.txt
+# 忽略 ignore IwantoIgnore 資料夾
+/IwantoIgnore/
